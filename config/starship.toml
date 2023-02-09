@@ -1,0 +1,8 @@
+add_newline = false
+
+
+[username]
+disabled = false
+show_always = true
+style_user = 'green cyan'
+format = '[$user ]($style)'

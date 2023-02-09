@@ -1,0 +1,1 @@
+ln -s /home/heartblin/dotfiles/config/* /home/heartblin/.config/
